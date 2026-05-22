@@ -1,12 +1,12 @@
-# Travel Planner 🌍
+# Travel Planner 
 
 Flutter приложение для планирования путешествий.
 
 ## Функции
-- 📋 Создание и управление маршрутами (Drift/SQLite)
-- 🔍 Поиск мест через OpenStreetMap API (Chopper)
-- 🌐 Общие маршруты с друзьями (Firebase Firestore)
-- 🌙 Тёмная/светлая тема (Shared Preferences)
+-  Создание и управление маршрутами (Drift/SQLite)
+-  Поиск мест через OpenStreetMap API (Chopper)
+-  Общие маршруты с друзьями (Firebase Firestore)
+-  Тёмная/светлая тема (Shared Preferences)
 
 ## Технологии
 | Что | Зачем |
